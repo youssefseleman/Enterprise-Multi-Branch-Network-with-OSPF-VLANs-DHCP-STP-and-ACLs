@@ -34,7 +34,7 @@ The network contains four routers connected in a square topology:
 
 The two WAN paths provide alternative routes between the main office and branch.
 
-See `screenshots/01-network-topology.png` for the complete topology.
+/screenshots/network-topology.png
 
 ## IP Addressing and VLANs
 
