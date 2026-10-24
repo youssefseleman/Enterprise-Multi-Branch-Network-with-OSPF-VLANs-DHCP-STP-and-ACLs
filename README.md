@@ -33,7 +33,7 @@ The network contains four routers connected in a square topology:
 - **BR-SW1:** Branch access switch
 
 The two WAN paths provide alternative routes between the main office and branch.
-screenshots/network-topology.png
+![Network Topology](screenshots/network-topology.png)
 
 ## IP Addressing and VLANs
 
